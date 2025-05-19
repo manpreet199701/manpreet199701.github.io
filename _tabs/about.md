@@ -1,11 +1,4 @@
----
-# the default layout is 'page'
-icon: fas fa-info-circle
-order: 4
----
----
-title: About
----
+
 # About Me
 
 Welcome to my page! Here's some info about me:
