@@ -6,8 +6,16 @@ order: 4
 ---
 title: About
 ---
-## Hello!
-I’m Manpreet, a baker turned developer…
+# About Me
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+Welcome to my page! Here's some info about me:
+
+- **Name**: Your Name
+- **Role**: Your Profession
+- **Interests**: Hobbies or topics you love
+
+## Skills
+- Python
+- JavaScript
+- Markdown
+
