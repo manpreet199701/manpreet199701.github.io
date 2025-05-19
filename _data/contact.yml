@@ -2,7 +2,9 @@
 
 - type: github
   icon: "fab fa-github"
-
+- type: linkdine
+  icon: "fab fa-linkedin"
+  
 - type: twitter
   icon: "fa-brands fa-x-twitter"
 
@@ -20,17 +22,16 @@
 #   url:  ''                  # Fill with your Mastodon account page, rel="me" will be applied for verification
 #
 # - type: linkedin
-#   icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
+#   icon: 'fab fa-linkedin'   # icons powered by <https://www.linkedin.com/in/manpreet-kaur-230b821b9/>
 #   url:  ''                  # Fill with your Linkedin homepage
 #
 # - type: stack-overflow
 #   icon: 'fab fa-stack-overflow'
 #   url:  ''                  # Fill with your stackoverflow homepage
 #
-# - type: bluesky
-#   icon: 'fa-brands fa-bluesky'
-#   url: ''                   # Fill with your Bluesky profile link
-#
+# - type: email
+#   icon: 'fas fa-envelope' 
+#   url:  <manpreetkaur1997011@gmail.com>                  # Fill with your email address
 # - type: reddit
 #   icon: 'fa-brands fa-reddit'
 #   url: ''                   # Fill with your Reddit profile link
